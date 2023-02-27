@@ -14,7 +14,7 @@ Color(5,:) = [199 32 38]./255;
 
 for PM_number = PM_number_list
 
-d = 500 / 1000 / 10; % diamond thickness/cm
+d = 2000 / 1000 / 10; % diamond thickness/cm
 
 q(:) = [0.418 0.5095 0.585 0.6495 0.706];
 
